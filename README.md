@@ -1,6 +1,6 @@
-# shop_app
+# todo_app
 
-A new Flutter project.
+Todo App
 
 ## Getting Started
 
